@@ -1,0 +1,1 @@
+enum TipoExame { PRIMEIRO, RETORNO }
