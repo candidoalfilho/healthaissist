@@ -2,7 +2,7 @@
 
 Uma revolução da telemedicina com IA.
 
-A documentação pode ser encontrada no arquivo documentacao.pdf.
+A documentação pode ser encontrada no arquivo documentacao.pdf, no link https://github.com/candidoalfilho/healthaissist/blob/main/documentacao.pdf
 
 ## Introdução
 
